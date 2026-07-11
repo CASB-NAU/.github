@@ -104,47 +104,9 @@ Automated DBTL pipelines: part registries, circuit design, and model-guided expe
 | **`syn-parts-registry`** | Standardized part & circuit registry · 标准化元件与线路库 | ![](https://img.shields.io/badge/-planned-64748b?style=flat-square) |
 | **`dbtl-pipeline`** | Automated Design–Build–Test–Learn workflows · DBTL 自动化流水线 | ![](https://img.shields.io/badge/-planned-64748b?style=flat-square) |
 
----
-
-## 🛠️ Tech Stack · 技术栈
-
-<div align="center">
-
-**Modelling & Simulation · 建模与仿真**
-
-![COBRApy](https://img.shields.io/badge/COBRApy-0d9488?style=for-the-badge&logoColor=white)
-![SBML](https://img.shields.io/badge/SBML-1a7f6e?style=for-the-badge&logoColor=white)
-![Vivarium](https://img.shields.io/badge/Vivarium-14b8a6?style=for-the-badge&logoColor=white)
-![Tellurium](https://img.shields.io/badge/Tellurium-2dd4bf?style=for-the-badge&logoColor=white)
-![BioPython](https://img.shields.io/badge/Biopython-34d399?style=for-the-badge&logo=biolink&logoColor=white)
-
-**Machine Learning · 机器学习**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-6366f1?style=for-the-badge&logo=google&logoColor=white)
-![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=lightning&logoColor=white)
-![scanpy](https://img.shields.io/badge/scanpy-a78bfa?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Core · 核心工具**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Infrastructure · 基础设施**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=for-the-badge&logo=nextflow&logoColor=white)
-![Snakemake](https://img.shields.io/badge/Snakemake-039475?style=for-the-badge&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
 
 ---
+
 
 ## 🤝 Get in Touch · 联系我们
 
