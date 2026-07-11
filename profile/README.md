@@ -21,13 +21,13 @@
 
 ## 🧬 About · 关于我们
 
-<h4 align="left"><b>中文</b> — 我们为农业构建<b>可计算的活细胞模型</b>。研究方向横跨合成生物学、系统生物学与机器学习：在计算机中重建作物相关微生物与植物细胞，模拟它们在遗传扰动与环境胁迫下的行为，并用预测结果反过来指导生物系统的理性设计——在动手做湿实验之前。</h4>
+<h4 align="left">我们为农业构建<b>可计算的活细胞模型</b>。研究方向横跨合成生物学、系统生物学与机器学习：在计算机中重建作物相关微生物与植物细胞，模拟它们在遗传扰动与环境胁迫下的行为，并用预测结果反过来指导生物系统的理性设计——在动手做湿实验之前。</h4>
 
 <h4 align="left">我们想要的是一个<b>闭环</b>：从基因组到模型，从模型到预测，从预测回到实验台。</h4>
 
 <br>
 
-<h4 align="left"><b>EN</b> — We build <b>computable models of living cells</b> for agriculture. Our work sits at the intersection of synthetic biology, systems biology and machine learning: we reconstruct crop-associated microbes and plant cells <i>in silico</i>, simulate how they behave under genetic and environmental perturbation, and use those predictions to design better biological systems before touching a pipette.</h4>
+<h4 align="left">We build <b>computable models of living cells</b> for agriculture. Our work sits at the intersection of synthetic biology, systems biology and machine learning: we reconstruct crop-associated microbes and plant cells <i>in silico</i>, simulate how they behave under genetic and environmental perturbation, and use those predictions to design better biological systems before touching a pipette.</h4>
 
 <h4 align="left">The goal is a <b>closed loop</b> — from genome to model, from model to prediction, from prediction back to the bench.</h4>
 
