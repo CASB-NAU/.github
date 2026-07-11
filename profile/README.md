@@ -7,13 +7,6 @@
 <h1>南京农业大学 · 农业合成生物学中心</h1>
 <h2>Center of Agricultural Synthetic Biology · Nanjing Agricultural University</h2>
 
-<br>
-
-[![Focus](https://img.shields.io/badge/Focus-Virtual%20%26%20Digital%20Cell-0d9488?style=for-the-badge)](https://github.com/CASB-NAU)
-[![Field](https://img.shields.io/badge/Field-Synthetic%20Biology-34d399?style=for-the-badge)](https://github.com/CASB-NAU)
-[![Institution](https://img.shields.io/badge/NAU-Nanjing%20Agricultural%20University-6366f1?style=for-the-badge)](https://www.njau.edu.cn/)
-[![License](https://img.shields.io/badge/License-MIT-a78bfa?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
 </div>
 
 ---
