@@ -4,9 +4,8 @@
 
 <br>
 
-**南京农业大学 · 农业合成生物学中心**
-
-**Center of Agricultural Synthetic Biology · Nanjing Agricultural University**
+<h1>南京农业大学 · 农业合成生物学中心</h1>
+<h2>Center of Agricultural Synthetic Biology · Nanjing Agricultural University</h2>
 
 <br>
 
