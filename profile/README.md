@@ -10,6 +10,10 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/CASB-NAU/.github/main/profile/assets/animation.gif" alt="CASB-NAU In Silico Cell Simulation" width="100%">
+
+<br>
+
 [![Focus](https://img.shields.io/badge/Focus-Virtual%20%26%20Digital%20Cell-0d9488?style=for-the-badge)](https://github.com/CASB-NAU)
 [![Field](https://img.shields.io/badge/Field-Synthetic%20Biology-34d399?style=for-the-badge)](https://github.com/CASB-NAU)
 [![Institution](https://img.shields.io/badge/NAU-Nanjing%20Agricultural%20University-6366f1?style=for-the-badge)](https://www.njau.edu.cn/)
