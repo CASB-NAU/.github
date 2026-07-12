@@ -102,13 +102,7 @@
 
 <img src="https://raw.githubusercontent.com/CASB-NAU/.github/main/profile/assets/picture.jpg" alt="CASB-NAU Logo" width="100%">
 
-<br><br>
-
-<h3><b>中国 · 江苏 · 南京农业大学</b></h3>
-
-<h3><b>Nanjing Agricultural University, Nanjing, Jiangsu, China</b></h3>
-
-<h3><b>欢迎在虚拟细胞建模、农业合成生物学与 AI for Biology 方向开展合作。</b></h3>
-<h3>Open to collaboration on virtual cell modelling, agricultural synthetic biology and AI-for-biology.</h3>
+<h4><b>中国 · 江苏 · 南京农业大学</b></h4>
+<h4><b>Nanjing Agricultural University, Nanjing, Jiangsu, China</b></h4>
 
 </div>
