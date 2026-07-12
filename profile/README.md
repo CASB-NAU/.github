@@ -104,15 +104,11 @@
 
 <br><br>
 
-<h2><b>中国 · 江苏 · 南京农业大学</b></h2>
+<h3><b>中国 · 江苏 · 南京农业大学</b></h3>
 
-<h2><b>Nanjing Agricultural University, Nanjing, Jiangsu, China</b></h2>
+<h3><b>Nanjing Agricultural University, Nanjing, Jiangsu, China</b></h3>
 
-<h2><b>欢迎在虚拟细胞建模、农业合成生物学与 AI for Biology 方向开展合作。</b></h2>
-<h2>Open to collaboration on virtual cell modelling, agricultural synthetic biology and AI-for-biology.</h2>
-
-<br>
-
-<sub>⭐ 如果这些工作对你有帮助，欢迎 Star。 · If our work is useful to you, a star helps others find it.</sub>
+<h3><b>欢迎在虚拟细胞建模、农业合成生物学与 AI for Biology 方向开展合作。</b></h3>
+<h3>Open to collaboration on virtual cell modelling, agricultural synthetic biology and AI-for-biology.</h3>
 
 </div>
