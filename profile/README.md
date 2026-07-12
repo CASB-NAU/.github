@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CASB-NAU/.github/main/profile/assets/avatar.png" alt="CASB-NAU Logo" width="120">
+<img src="https://raw.githubusercontent.com/CASB-NAU/.github/main/profile/assets/picture.jpg" alt="CASB-NAU Logo" width="100%">
 
 <br><br>
 
