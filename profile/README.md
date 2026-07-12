@@ -102,7 +102,9 @@
 
 <img src="https://raw.githubusercontent.com/CASB-NAU/.github/main/profile/assets/picture.jpg" alt="CASB-NAU Logo" width="100%">
 
-<h4><b>中国 · 江苏 · 南京农业大学</b></h4>
-<h4><b>Nanjing Agricultural University, Nanjing, Jiangsu, China</b></h4>
+<h4><b>江苏省南京江北新区滨江大道666号南京农业大学前沿交叉研究院农业合成生物学中心</b></h4>
+<h4><b>Center for Agricultural Synthetic Biology, 
+Institute of Frontier Interdisciplinary Studies, Nanjing Agricultural University, 
+No. 666 Binjiang Avenue, Jiangbei New Area, Nanjing, Jiangsu Province</b></h4>
 
 </div>
