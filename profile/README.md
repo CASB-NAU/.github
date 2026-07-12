@@ -100,6 +100,10 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/CASB-NAU/.github/main/profile/assets/avatar.png" alt="CASB-NAU Logo" width="120">
+
+<br><br>
+
 <h4><b>中国 · 江苏 · 南京农业大学</b></h4>
 
 <h4><b>Nanjing Agricultural University, Nanjing, Jiangsu, China</b></h4>
