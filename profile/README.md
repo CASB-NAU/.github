@@ -11,7 +11,7 @@
 
 ---
 
-## 🧬 About · 关于我们
+## 🧬 关于我们 · About
 
 <h4 align="left">我们为农业构建<b>可计算的活细胞模型</b>。研究方向横跨合成生物学、系统生物学与机器学习：在计算机中重建作物相关微生物与植物细胞，模拟它们在遗传扰动与环境胁迫下的行为，并用预测结果反过来指导生物系统的理性设计——在动手做湿实验之前。</h4>
 
@@ -96,7 +96,7 @@
 
 ---
 
-## 🤝 Get in Touch · 联系我们
+## 🤝 联系我们 · Get in Touch  
 
 <div align="center">
 
@@ -107,7 +107,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/NJAU-njau.edu.cn-0d9488?style=flat-square&logo=googlechrome&logoColor=white)](https://www.njau.edu.cn/)
-[![Email](https://img.shields.io/badge/Email-contact%40example.edu.cn-6366f1?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@example.edu.cn)
+[![Email](https://img.shields.io/badge/Email-yangzhijie%40example.edu.cn-6366f1?style=flat-square&logo=maildotru&logoColor=white)](mailto:yangzhijie@njau.edu.cn)
 
 <br>
 
