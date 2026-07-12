@@ -104,19 +104,12 @@
 
 <br><br>
 
-<h4><b>中国 · 江苏 · 南京农业大学</b></h4>
+<h2><b>中国 · 江苏 · 南京农业大学</b></h2>
 
-<h4><b>Nanjing Agricultural University, Nanjing, Jiangsu, China</b></h4>
+<h2><b>Nanjing Agricultural University, Nanjing, Jiangsu, China</b></h2>
 
-<br>
-
-[![Website](https://img.shields.io/badge/NJAU-njau.edu.cn-0d9488?style=flat-square&logo=googlechrome&logoColor=white)](https://www.njau.edu.cn/)
-[![Email](https://img.shields.io/badge/Email-yangzhijie%40example.edu.cn-6366f1?style=flat-square&logo=maildotru&logoColor=white)](mailto:yangzhijie@njau.edu.cn)
-
-<br>
-
-<h4><b>欢迎在虚拟细胞建模、农业合成生物学与 AI for Biology 方向开展合作。</b></h4>
-<h4>Open to collaboration on virtual cell modelling, agricultural synthetic biology and AI-for-biology.</h4>
+<h2><b>欢迎在虚拟细胞建模、农业合成生物学与 AI for Biology 方向开展合作。</b></h2>
+<h2>Open to collaboration on virtual cell modelling, agricultural synthetic biology and AI-for-biology.</h2>
 
 <br>
 
