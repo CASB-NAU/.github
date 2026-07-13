@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc">
+  <title id="title">CASB-NAU closed-loop research workflow</title>
+  <desc id="desc">From genome and multi-omics data to cell models, perturbation predictions, and experimental validation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061329"/>
+      <stop offset="0.52" stop-color="#0a2948"/>
+      <stop offset="1" stop-color="#183a67"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#47e2b9"/>
+      <stop offset="0.55" stop-color="#29c8df"/>
+      <stop offset="1" stop-color="#8b7cf6"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16385d" stop-opacity=".86"/>
+      <stop offset="1" stop-color="#0b203d" stop-opacity=".72"/>
+    </linearGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0V56" fill="none" stroke="#55d7d5" stroke-opacity=".08"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="440" rx="32" fill="url(#bg)"/>
+  <rect width="1600" height="440" rx="32" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1598" height="438" rx="31" fill="none" stroke="#52d6d2" stroke-opacity=".45" stroke-width="2"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="64" y="66" fill="#49e3bd" font-size="16" font-weight="700" letter-spacing="4">MODEL-GUIDED BIOLOGY</text>
+    <text x="64" y="112" fill="#f2fbff" font-size="34" font-weight="720">从基因组到实验台的闭环</text>
+    <text x="64" y="145" fill="#a7cad8" font-size="20">From genome to model, from prediction back to the bench.</text>
+
+    <path d="M198 256H1402" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" opacity=".75" filter="url(#glow)"/>
+    <path d="M1402 256l-20-12v24z" fill="#8b7cf6"/>
+
+    <g transform="translate(64 188)">
+      <rect width="304" height="184" rx="24" fill="url(#card)" stroke="#52d6d2" stroke-opacity=".6"/>
+      <circle cx="44" cy="44" r="21" fill="#47e2b9" fill-opacity=".15" stroke="#47e2b9"/>
+      <text x="44" y="51" text-anchor="middle" fill="#47e2b9" font-size="20" font-weight="700">01</text>
+      <text x="80" y="43" fill="#f4fcff" font-size="24" font-weight="700">GENOME</text>
+      <text x="80" y="70" fill="#8fbfce" font-size="16">基因组与多组学数据</text>
+      <text x="28" y="119" fill="#c8e0e7" font-size="17">Reconstruct the parts, states,</text>
+      <text x="28" y="147" fill="#c8e0e7" font-size="17">and constraints of living cells.</text>
+    </g>
+
+    <g transform="translate(440 188)">
+      <rect width="304" height="184" rx="24" fill="url(#card)" stroke="#52d6d2" stroke-opacity=".6"/>
+      <circle cx="44" cy="44" r="21" fill="#38d6d7" fill-opacity=".15" stroke="#38d6d7"/>
+      <text x="44" y="51" text-anchor="middle" fill="#38d6d7" font-size="20" font-weight="700">02</text>
+      <text x="80" y="43" fill="#f4fcff" font-size="24" font-weight="700">MODEL</text>
+      <text x="80" y="70" fill="#8fbfce" font-size="16">可计算的细胞模型</text>
+      <text x="28" y="119" fill="#c8e0e7" font-size="17">Integrate metabolism, regulation,</text>
+      <text x="28" y="147" fill="#c8e0e7" font-size="17">growth, and environment.</text>
+    </g>
+
+    <g transform="translate(816 188)">
+      <rect width="304" height="184" rx="24" fill="url(#card)" stroke="#6aaee8" stroke-opacity=".64"/>
+      <circle cx="44" cy="44" r="21" fill="#5fa8ed" fill-opacity=".15" stroke="#5fa8ed"/>
+      <text x="44" y="51" text-anchor="middle" fill="#6bb8f5" font-size="20" font-weight="700">03</text>
+      <text x="80" y="43" fill="#f4fcff" font-size="24" font-weight="700">PREDICT</text>
+      <text x="80" y="70" fill="#9fbcd9" font-size="16">遗传与环境扰动预测</text>
+      <text x="28" y="119" fill="#c8e0e7" font-size="17">Simulate unseen interventions</text>
+      <text x="28" y="147" fill="#c8e0e7" font-size="17">before running an experiment.</text>
+    </g>
+
+    <g transform="translate(1192 188)">
+      <rect width="304" height="184" rx="24" fill="url(#card)" stroke="#9584f5" stroke-opacity=".72"/>
+      <circle cx="44" cy="44" r="21" fill="#9584f5" fill-opacity=".15" stroke="#9584f5"/>
+      <text x="44" y="51" text-anchor="middle" fill="#a99cf8" font-size="20" font-weight="700">04</text>
+      <text x="80" y="43" fill="#f4fcff" font-size="24" font-weight="700">VALIDATE</text>
+      <text x="80" y="70" fill="#afa9dc" font-size="16">实验验证与主动学习</text>
+      <text x="28" y="119" fill="#c8e0e7" font-size="17">Feed evidence back into the</text>
+      <text x="28" y="147" fill="#c8e0e7" font-size="17">next model and design cycle.</text>
+    </g>
+  </g>
+</svg>
