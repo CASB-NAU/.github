@@ -2,7 +2,7 @@
 
 <img src="assets/hero-style-b.gif" alt="CASB-NAU — Center of Agricultural Synthetic Biology, Nanjing Agricultural University" width="100%">
 
-
+<div>
 ---
 
 ## 🧬 关于我们 · About
