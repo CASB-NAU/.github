@@ -73,7 +73,7 @@
 
 <h3>04 · 设计—构建—测试—学习闭环 / DBTL Loop</h3>
 
-<p><b>自动化 DBTL 流水线</b>：合成生物学元件库与数据库 (https://www.biosino.org/rdbsb/) </p>
+<p> 合成生物学元件库与数据库 (https://www.biosino.org/rdbsb/) </p>
 
 <p>Automated DBTL pipelines: part registries, circuit design, and model-guided experiment selection feeding back into the wet lab.</p>
 
