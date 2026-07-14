@@ -2,13 +2,6 @@
 
 <img src="assets/hero-style-b.gif" alt="CASB-NAU — Center of Agricultural Synthetic Biology, Nanjing Agricultural University" width="100%">
 
-<br>
-
-<img src="https://img.shields.io/badge/WHOLE--CELL-MODELLING-0f3450?style=flat-square&amp;labelColor=031522" alt="Whole-Cell Modelling">
-<img src="https://img.shields.io/badge/AI-VIRTUAL%20CELL-1a6770?style=flat-square&amp;labelColor=031522" alt="AI Virtual Cell">
-<img src="https://img.shields.io/badge/DIGITAL%20TWIN-AGRICULTURE-4a4f93?style=flat-square&amp;labelColor=031522" alt="Agricultural Digital Twin">
-<img src="https://img.shields.io/badge/DBTL-MODEL%20GUIDED-69427e?style=flat-square&amp;labelColor=031522" alt="Design Build Test Learn">
-
 </div>
 
 <br>
@@ -115,8 +108,6 @@
 <img src="assets/picture.jpg" alt="CASB-NAU at Nanjing Agricultural University" width="100%">
 
 <br>
-
-<a href="https://gitlifebiotech.com/"><img src="https://img.shields.io/badge/WEBSITE-gitlifebiotech.com-3a285a?style=flat-square&amp;labelColor=031522" alt="GitLife Biotech website"></a>
 
 <p>
 <b>农业合成生物学中心</b><br>
