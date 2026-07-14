@@ -7,7 +7,10 @@
 <br>
 
 <h2 id="about">
+<picture>
+<source media="(max-width: 600px)" srcset="assets/section-about-mobile.svg">
 <img src="assets/section-about.svg" alt="关于我们 · About" width="100%">
+</picture>
 </h2>
 
 <p align="left">我们为农业构建<b>可计算的活细胞模型</b>。研究方向横跨合成生物学、系统生物学与机器学习：在计算机中重建作物相关微生物与植物细胞，模拟它们在遗传扰动与环境胁迫下的行为，并用预测结果反过来指导生物系统的理性设计——在动手做湿实验之前。</p>
@@ -23,7 +26,10 @@
 <br>
 
 <h2 id="research-directions">
+<picture>
+<source media="(max-width: 600px)" srcset="assets/section-research-mobile.svg">
 <img src="assets/section-research.svg" alt="研究方向 · Research Directions" width="100%">
+</picture>
 </h2>
 
 <table>
@@ -80,7 +86,10 @@
 <br>
 
 <h2 id="projects">
+<picture>
+<source media="(max-width: 600px)" srcset="assets/section-projects-mobile.svg">
 <img src="assets/section-projects.svg" alt="项目导航 · Projects" width="100%">
+</picture>
 </h2>
 
 > **本组织新建，以下为规划中的仓库结构。建好后把链接换成真实地址即可。**
@@ -98,7 +107,10 @@
 <br>
 
 <h2 id="get-in-touch">
+<picture>
+<source media="(max-width: 600px)" srcset="assets/section-contact-mobile.svg">
 <img src="assets/section-contact.svg" alt="联系我们 · Get in Touch" width="100%">
+</picture>
 </h2>
 
 <div align="center">
