@@ -36,24 +36,24 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3>01 · 全细胞模型 / Whole-Cell Modelling</h3>
+<h3>01 · 全细胞与 AI 虚拟细胞 / Whole-Cell &amp; AI Virtual Cell Modelling</h3>
 
-<p><b>机制驱动的基因组尺度重建</b>：把代谢、基因调控与生长整合进同一个模型。</p>
+<p><b>融合机制驱动的基因组尺度模型与单细胞多组学基础模型</b>，重建农业微生物和植物细胞，预测其对遗传、化学与环境扰动的响应。</p>
 
-<p>Mechanistic, genome-scale reconstructions of agricultural microbes and plant cells — metabolism, gene regulation and growth in one integrated model.</p>
+<p>Mechanistic genome-scale models and single-cell foundation models reconstruct agricultural microbes and plant cells and predict their responses to genetic, chemical and environmental perturbations.</p>
 
-<p><code>GEM</code> <code>FBA / dFBA</code> <code>Kinetic Models</code> <code>SBML</code></p>
+<p><code>GEM</code> <code>FBA / dFBA</code> <code>Foundation Models</code> <code>Perturbation Prediction</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02 · AI 虚拟细胞 / AI Virtual Cell</h3>
+<h3>02 · 蛋白合成与分泌模型 / Protein Synthesis &amp; Secretion Modelling</h3>
 
-<p><b>基于单细胞多组学训练基础模型</b>，预测细胞对未见过的遗传/化学扰动的响应。</p>
+<p><b>模拟蛋白从翻译、折叠到跨膜转运与分泌的全过程</b>，预测宿主资源分配和异源蛋白产能。</p>
 
-<p>Foundation models trained on single-cell multi-omics that predict cellular response to unseen genetic and chemical perturbations.</p>
+<p>Models of translation, folding, translocation and secretion predict host resource allocation and heterologous protein production.</p>
 
-<p><code>Foundation Models</code> <code>Perturbation Prediction</code> <code>scRNA-seq</code> <code>Graph Learning</code></p>
+<p><code>Translation</code> <code>Protein Folding</code> <code>Secretory Pathway</code> <code>Resource Allocation</code></p>
 
 </td>
 </tr>
@@ -92,11 +92,13 @@
 </picture>
 </h2>
 
-> **本组织新建，以下为规划中的仓库结构。建好后把链接换成真实地址即可。**
-> The organization is newly created — repositories below are the planned structure.
+> **已发布项目与规划仓库如下。**
+> Published projects and planned repositories are listed below.
 
 | Repository | 简介 · Description | Status |
 |:--|:--|:--|
+| [<code>yeast-aba-gem</code>](https://github.com/CASB-NAU/yeast-aba-gem) | **酿酒酵母合成脱落酸（ABA）的基因组尺度代谢模型** · Genome-scale metabolic model of ABA-producing *Saccharomyces cerevisiae* | ![available](https://img.shields.io/badge/status-available-1a6770?style=flat-square&labelColor=031522) |
+| [<code>salb-gem-pteridic-acid</code>](https://github.com/CASB-NAU/salb-gem-pteridic-acid) | **链霉菌 Pteridic acid 与 Elaiophylin 合成的代谢模型与通路工程** · Metabolic modelling and pathway engineering for pteridic acid and elaiophylin biosynthesis in *Streptomyces albus* | ![available](https://img.shields.io/badge/status-available-69427e?style=flat-square&labelColor=031522) |
 | <code>virtual-cell-core</code> | **全细胞模型仿真引擎** · Simulation engine for whole-cell models | ![planned](https://img.shields.io/badge/status-planned-243b6b?style=flat-square&labelColor=031522) |
 | <code>genome-scale-models</code> | **农业微生物与作物的基因组尺度代谢模型库** · Curated GEMs of agricultural microbes & crops | ![planned](https://img.shields.io/badge/status-planned-243b6b?style=flat-square&labelColor=031522) |
 | <code>cell-foundation-model</code> | **单细胞基础模型与扰动预测** · Single-cell foundation model & perturbation prediction | ![planned](https://img.shields.io/badge/status-planned-4a4f93?style=flat-square&labelColor=031522) |
