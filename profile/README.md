@@ -73,7 +73,7 @@
 
 <h3>04 · 设计—构建—测试—学习闭环 / DBTL Loop</h3>
 
-<p><b>自动化 DBTL 流水线</b>：元件库、线路设计、模型引导的实验选择，反馈回湿实验。</p>
+<p><b>自动化 DBTL 流水线</b>：合成生物学元件库与数据库 (https://www.biosino.org/rdbsb/) </p>
 
 <p>Automated DBTL pipelines: part registries, circuit design, and model-guided experiment selection feeding back into the wet lab.</p>
 
@@ -97,6 +97,7 @@
 
 | Repository | 简介 · Description | Status |
 |:--|:--|:--|
+| [<code>Synbio Library</code>](https://www.biosino.org/rdbsb/) | **合成生物学元件库与数据库** · Synthetic Biology Component Libraries and Databases | ![available](https://img.shields.io/badge/status-available-1a6770?style=flat-square&labelColor=031522) |
 | [<code>yeast-aba-gem</code>](https://github.com/CASB-NAU/yeast-aba-gem) | **酿酒酵母合成脱落酸（ABA）的基因组尺度代谢模型** · Genome-scale metabolic model of ABA-producing *Saccharomyces cerevisiae* | ![available](https://img.shields.io/badge/status-available-1a6770?style=flat-square&labelColor=031522) |
 | [<code>salb-gem-pteridic-acid</code>](https://github.com/CASB-NAU/salb-gem-pteridic-acid) | **链霉菌 Pteridic acid 与 Elaiophylin 合成的代谢模型与通路工程** · Metabolic modelling and pathway engineering for pteridic acid and elaiophylin biosynthesis in *Streptomyces albus* | ![available](https://img.shields.io/badge/status-available-69427e?style=flat-square&labelColor=031522) |
 | <code>virtual-cell-core</code> | **全细胞模型仿真引擎** · Simulation engine for whole-cell models | ![planned](https://img.shields.io/badge/status-planned-243b6b?style=flat-square&labelColor=031522) |
