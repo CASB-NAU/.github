@@ -13,15 +13,15 @@
 </picture>
 </h2>
 
-<p align="left">我们为农业构建<b>可计算的活细胞模型</b>。研究方向横跨合成生物学、系统生物学与机器学习：在计算机中重建作物相关微生物与植物细胞，模拟它们在遗传扰动与环境胁迫下的行为，并用预测结果反过来指导生物系统的理性设计——在动手做湿实验之前。</p>
+<p align="left">南京农业大学农业合成生物学中心依托前沿交叉研究院，面向世界科技前沿、国家重大需求和现代农业主战场，以合成生物学为核心引擎，融合农学、生物学、工程学与信息科学，推动农业研究与生产向可设计、可预测、可制造转变。</p>
 
-<p align="left">我们想要的是一个<b>闭环</b>：从基因组到模型，从模型到预测，从预测回到实验台。</p>
+<p align="left">中心聚焦农业生物系统设计与合成原理、AI 赋能的使能技术平台、农业合成生物学应用与转化，构建从数据与模型、元件与底盘到绿色投入品和生物制造的“设计—构建—测试—学习”闭环。数字细胞与虚拟细胞研究结合机制模型与 AI 基础模型，在计算机中重建农业微生物和植物细胞，预测其对遗传和环境扰动的响应，并为实验设计提供依据。</p>
 
 <br>
 
-<p align="left">We build <b>computable models of living cells</b> for agriculture. Our work sits at the intersection of synthetic biology, systems biology and machine learning: we reconstruct crop-associated microbes and plant cells <i>in silico</i>, simulate how they behave under genetic and environmental perturbation, and use those predictions to design better biological systems before touching a pipette.</p>
+<p align="left">The Center for Agricultural Synthetic Biology at Nanjing Agricultural University brings together agricultural science, biology, engineering and information science to make agricultural systems more designable, predictable and manufacturable.</p>
 
-<p align="left">The goal is a <b>closed loop</b> — from genome to model, from model to prediction, from prediction back to the bench.</p>
+<p align="left">Our work spans the design principles of agricultural biological systems, AI-enabled technology platforms, and application and translation—linking data and models, biological parts and chassis, and green biomanufacturing through a Design–Build–Test–Learn cycle. Digital and virtual cell research combines mechanistic models with AI foundation models to reconstruct agricultural microbes and plant cells <i>in silico</i>, predict their responses to genetic and environmental perturbations, and guide experimental design.</p>
 
 <br>
 
